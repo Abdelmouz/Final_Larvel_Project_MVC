@@ -1,0 +1,42 @@
+.rade-5 {
+    border-radius: 5px;
+}
+.buttonG {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 20px;
+}
+.row {
+    padding: 10px 0px;
+}
+
+.w111 {
+    width: 100px;
+}
+.cardFile {
+    width: 750px;
+    box-shadow: 8px 8px 8px #cbcbcb;
+    margin: 30px 0px;
+}
+
+a i {
+    font-size: 22px;
+}
+.textlast {
+    position: absolute;
+    bottom: 5px;
+    left: 280px;
+}
+.w30 {
+    width: 30%;
+}
+.buttonAllData {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+.textlastALLdata {
+    margin-left: 22px;
+}
